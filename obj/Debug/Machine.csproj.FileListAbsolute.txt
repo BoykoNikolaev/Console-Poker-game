@@ -1,0 +1,7 @@
+C:\Users\nikbu\source\repos\Machine\Machine\bin\Debug\Machine.exe.config
+C:\Users\nikbu\source\repos\Machine\Machine\bin\Debug\Machine.exe
+C:\Users\nikbu\source\repos\Machine\Machine\bin\Debug\Machine.pdb
+C:\Users\nikbu\source\repos\Machine\Machine\obj\Debug\Machine.csprojAssemblyReference.cache
+C:\Users\nikbu\source\repos\Machine\Machine\obj\Debug\Machine.csproj.CoreCompileInputs.cache
+C:\Users\nikbu\source\repos\Machine\Machine\obj\Debug\Machine.exe
+C:\Users\nikbu\source\repos\Machine\Machine\obj\Debug\Machine.pdb
